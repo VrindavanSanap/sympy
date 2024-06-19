@@ -1,0 +1,7 @@
+i j k 
+-rsin , 0 , rcos
+0, 1, 0
+-rcos i + -rsin k
+-4 cos(5pi/3) -4 sin(5pi/3)
+-4 cos(pi/3) +4sin(pi/3)
+-2 + 2 root3
